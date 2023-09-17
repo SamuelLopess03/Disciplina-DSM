@@ -22,3 +22,8 @@ Um projeto inicial com o framework React Native que permite ao usuário saber qu
 
 ![Imagem da aplicação com o botão de clique](./imagens/questao2-botaoClicavel.jpg)
 
+# Questão 3 (Projeto React Native - Três Quadrados com uma Mensagem no Centro)
+
+Uma aplicação/projeto usando também o framework React Native para criar três quadrados centralizados na tela do dispositivo com uma mensagem no centro de cada um.
+
+![Imagem da aplicação dos três quadrados](./imagens/questao3-tresQuadrados.png)
