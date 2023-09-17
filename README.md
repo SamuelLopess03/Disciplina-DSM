@@ -16,4 +16,9 @@ Basicamente, um projeto para o usuário gerenciar suas tarefas diárias por meio
 
 ![Imagem da lista de tarefas](./imagens/questao1-todolist-2.png)
 
-# Questão 2 ()
+# Questão 2 (Projeto React Native - Total de Cliques no Botão)
+
+Um projeto inicial com o framework React Native que permite ao usuário saber quantas vezes ele pressionou um botão por meio de um campo textual.
+
+![Imagem da aplicação com o botão de clique](./imagens/questao2-botaoClicavel.jpg)
+
