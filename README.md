@@ -27,3 +27,9 @@ Um projeto inicial com o framework React Native que permite ao usuário saber qu
 Uma aplicação/projeto usando também o framework React Native para criar três quadrados centralizados na tela do dispositivo com uma mensagem no centro de cada um.
 
 ![Imagem da aplicação dos três quadrados](./imagens/questao3-tresQuadrados.png)
+
+# Questão 4 (Projeto React Native - Formulário de Input que Apresenta a Informação Digitada)
+
+Uma aplicação que pega o nome do usuário por meio de um input em um formulário básico para aprensentar uma mensagem inicial junto ao seu nome.
+
+![Imagem da aplicação de formulário básico](./imagens/questao4-inputApresentavel.png)
