@@ -30,6 +30,10 @@ Uma aplicação/projeto usando também o framework React Native para criar três
 
 # Questão 4 (Projeto React Native - Formulário de Input que Apresenta a Informação Digitada)
 
-Uma aplicação que pega o nome do usuário por meio de um input em um formulário básico para aprensentar uma mensagem inicial junto ao seu nome, logo abaixo dele.
+Uma aplicação feita no framework React Native que pega o nome do usuário por meio de um input em um formulário básico para aprensentar uma mensagem inicial junto ao seu nome, logo abaixo dele.
 
 ![Imagem da aplicação de formulário básico](./imagens/questao4-inputApresentavel.png)
+
+# Questão 5 (Projeto React Native - Calculadora Básica)
+
+Uma aplicação de uma calculadora construída por meio do framework React Native contendo apenas as operações básicas de soma, subtração, multiplicação e divisão.
