@@ -43,3 +43,27 @@ Uma aplicação de uma calculadora construída por meio do framework React Nativ
 ![Imagem da Aplicação de Calculadora](Modulo-I/imagens/questao5-calculadora.png)
 
 # Módulo II da Disciplina
+
+## Uma aplicação que realiza a busca de uma lista de livros (obras) e apresenta para os usuários.
+
+## Características:
+    - Apresenta uma listagem de livros com e sem filtragem, obtendo 20 obras e exibindo-as.
+    - Exibe 4 informações sobre as obras, sendo elas autor, titulo, url e classificação. 
+
+## Detalhes de Desenvolvimento:
+    - A requisição GET para o Web Service foi realizada utilizando a bibiloteca 'axios'.
+    - As informações da API foram buscadas e armazenadas em um array, sendo exibidos por meio do método 'map'.
+    - A classificação das obras foi realizada por meio do campo 'points' dos dados da API, onde o valor foi dividido por 1000 para tê-lo na faixa de 0.0 e 10.0.
+    - Foi necessário a criação de outro componente para abstrair e exibir cada livro que vinham da API individualmente.
+
+## Imagens da Aplicação:
+
+### Sem Filtragem
+
+![Imagem sem filtro da aplicação de busca livros](Modulo-II/imagens/buscaSemFiltro.png)
+
+---
+
+### Com Filtragem
+
+![Imagem com filtro da aplicação de busca livros](Modulo-II/imagens/buscaComFiltro.png)
