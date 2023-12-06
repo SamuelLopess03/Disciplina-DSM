@@ -14,33 +14,33 @@ Basicamente, um projeto para o usuário gerenciar suas tarefas diárias por meio
 
 - OBS: Foram necessárias duas imagens para mostrar a aplicação
 
-![Imagem da lista de tarefas](Modulo-I/imagens/questao1-todolist.png)
+![Imagem da lista de tarefas](ModuloI/imagens/questao1-todolist.png)
 
-![Imagem da lista de tarefas](Modulo-I/imagens/questao1-todolist-2.png)
+![Imagem da lista de tarefas](ModuloI/imagens/questao1-todolist-2.png)
 
 ## Questão 2 (Projeto React Native - Total de Cliques no Botão)
 
 Um projeto inicial com o framework React Native que permite ao usuário saber quantas vezes ele pressionou um botão por meio de um campo textual.
 
-![Imagem da aplicação com o botão de clique](Modulo-I/imagens/questao2-botaoClicavel.jpg)
+![Imagem da aplicação com o botão de clique](ModuloI/imagens/questao2-botaoClicavel.jpg)
 
 ## Questão 3 (Projeto React Native - Três Quadrados com uma Mensagem no Centro)
 
 Uma aplicação/projeto usando também o framework React Native para criar três quadrados centralizados na tela do dispositivo com uma mensagem no centro de cada um.
 
-![Imagem da aplicação dos três quadrados](Modulo-I/imagens/questao3-tresQuadrados.png)
+![Imagem da aplicação dos três quadrados](ModuloI/imagens/questao3-tresQuadrados.png)
 
 ## Questão 4 (Projeto React Native - Formulário de Input que Apresenta a Informação Digitada)
 
 Uma aplicação feita com o framework React Native que pega o nome do usuário por meio de um input em um formulário básico para aprensentar uma mensagem inicial junto ao seu nome, logo abaixo dele.
 
-![Imagem da aplicação de formulário básico](Modulo-I/imagens/questao4-inputApresentavel.png)
+![Imagem da aplicação de formulário básico](ModuloI/imagens/questao4-inputApresentavel.png)
 
 ## Questão 5 (Projeto React Native - Calculadora Básica)
 
 Uma aplicação de uma calculadora construída por meio do framework React Native contendo apenas as operações básicas de soma, subtração, multiplicação e divisão.
 
-![Imagem da Aplicação de Calculadora](Modulo-I/imagens/questao5-calculadora.png)
+![Imagem da Aplicação de Calculadora](ModuloI/imagens/questao5-calculadora.png)
 
 # Módulo II da Disciplina
 
@@ -60,13 +60,13 @@ Uma aplicação de uma calculadora construída por meio do framework React Nativ
 
 ### Sem Filtragem
 
-![Imagem sem filtro da aplicação de busca livros](Modulo-II/imagens/buscaSemFiltro.png)
+![Imagem sem filtro da aplicação de busca livros](ModuloII/imagens/buscaSemFiltro.png)
 
 ---
 
 ### Com Filtragem
 
-![Imagem com filtro da aplicação de busca livros](Modulo-II/imagens/buscaComFiltro.png)
+![Imagem com filtro da aplicação de busca livros](ModuloII/imagens/buscaComFiltro.png)
 
 # Módulo III da Disciplina (Trabalho Final)
 
@@ -84,4 +84,4 @@ Basicamente, trata-se de uma aplicação com CRUD (Create, Read, Update, Delete)
     - O acesso a aplicação é: Email -> filmes@gmail.com | Senha -> filmes2023
 
 
-### Pequeno vídeo ou imagens para apresentar a aplicação
+### Pequeno gif da interface e imagem do firebase para apresentar a aplicação
