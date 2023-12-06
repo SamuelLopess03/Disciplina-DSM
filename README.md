@@ -85,3 +85,10 @@ Basicamente, trata-se de uma aplicação com CRUD (Create, Read, Update, Delete)
 
 
 ### Pequeno gif da interface e imagem do firebase para apresentar a aplicação
+
+#### Interface da Aplicação
+
+
+#### Filmes no Firebase:
+
+![Imagem dos filmes no firebase](ModuloIII/imagens/firebase.png)
