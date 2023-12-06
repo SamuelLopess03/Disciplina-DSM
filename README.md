@@ -67,3 +67,21 @@ Uma aplicação de uma calculadora construída por meio do framework React Nativ
 ### Com Filtragem
 
 ![Imagem com filtro da aplicação de busca livros](Modulo-II/imagens/buscaComFiltro.png)
+
+# Módulo III da Disciplina (Trabalho Final)
+
+Basicamente, trata-se de uma aplicação com CRUD (Create, Read, Update, Delete) de Filmes, onde o usuário vai poder fazer todas as operações necessárias com sua lista de filmes.
+
+### Soluções Utilizadas:
+    - Integração da aplicação com Firebase que é um Backend as a Service (BaSS), ou seja, fornece toda a utilização de serviços de Backend, como o uso de Banco de dados para armazenar as informações.
+    - Navegação entre as telas por meio de React Native Navigation.
+    - Não consegui utilizar Redux para gerenciamento global das informações da aplicação.
+    - Design pensado e trabalhado por meio de estrutura de layout flex.
+
+### Observações:
+    - As funcionalidades de CRUD estão funcionando, mas ao apagar um filme da listagem a interface não mostra essa atualização, pois é necessário renderizar novamente a página - Infelizmente não consegui resolver esse problema.
+    - As demais operações com as informações são mostradas na Interface sem nenhuma renderização ou ação a mais, sendo somente necessário realizar a operação em si.
+    - O acesso a aplicação é: Email -> filmes@gmail.com | Senha -> filmes2023
+
+
+### Pequeno vídeo ou imagens para apresentar a aplicação
